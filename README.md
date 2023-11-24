@@ -1,2 +1,2 @@
 # JokesApp
-Create a MVVM, Depedency Injection, and Retrofit using Java
+Create a simple app using MVVM, Depedency Injection, and Retrofit (Java Native)

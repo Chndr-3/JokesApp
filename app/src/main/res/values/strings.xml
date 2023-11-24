@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="name">Name</string>
+    <string name="jokes_app">Chandra\'s Jokes App</string>
+    <string name="cari">Cari</string>
+    <string name="jokes">Jokes</string>
+    <string name="cari_jokes">Cari Jokes</string>
+</resources>
